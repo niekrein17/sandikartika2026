@@ -1,0 +1,6 @@
+{
+  "name": "SANDI-KARTIKA",
+  "description": "Tactical Steganography & Offline Encryption Suite with Deniable Encryption and Time-Lock",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="stego_cache" path="stego_images/" />
+    <cache-path name="web_cache" path="standalone_web/" />
+    <external-cache-path name="external_stego_cache" path="stego_images/" />
+    <files-path name="stego_files" path="stego_images/" />
+</paths>

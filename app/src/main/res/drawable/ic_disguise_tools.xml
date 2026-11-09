@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Neutral Blue-Grey Circle Background -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M18,18 h72 a12,12 0 0,1 12,12 v48 a12,12 0 0,1 -12,12 h-72 a12,12 0 0,1 -12,-12 v-48 a12,12 0 0,1 12,-12 z" />
+
+    <!-- Gear Vector -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M54,42 a12,12 0 1,0 0,24 a12,12 0 1,0 0,-24 z M54,26 l4,6 l8,-2 l2,8 l8,2 l-2,8 l6,4 l-4,6 l4,6 l-6,4 l2,8 l-8,2 l-2,8 l-8,-2 l-4,6 l-4,-6 l-8,2 l-2,-8 l-8,-2 l2,-8 l-6,-4 l4,-6 l-4,-6 l6,-4 l-2,-8 l8,-2 l2,-8 l8,2 z" />
+
+    <!-- Center Hole -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,47 a7,7 0 1,0 0,14 a7,7 0 1,0 0,-14 z" />
+</vector>
